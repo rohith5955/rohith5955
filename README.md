@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ### Where to find me
 
+[![](https://img.shields.io/badge/Portfolio-RohithSajjaa-9cf?style=for-the-badge&logo=react)](https://rohithsajja.me)
 [![](https://img.shields.io/badge/LinkedIn-rohithsajja-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohithsajja/)
 [![](https://img.shields.io/badge/Gmail-rsajja-red?style=for-the-badge&logo=gmail)](mailto:rsajja@email.arizona.edu)
 [![](https://img.shields.io/badge/Medium-@rohith5955-black?style=for-the-badge&logo=medium)](https://www.medium.com/@rohith5955)
