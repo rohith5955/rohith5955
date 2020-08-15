@@ -1,16 +1,14 @@
 # Rohith Kumar Sajja 
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-&nbsp;
-
-### Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<!--### Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 
 
 
 <pre>
-I'm Rohith Kumar Sajja, a graduate student at the University of Arizona.
-A budding Data Scientist, passionate about researching and developing analytical solutions.
+I'm Rohith Kumar Sajja, a graduate student at the University of Arizona, and a budding Data Scientist, passionate about researching and developing analytical solutions.
 I leverage Machine Learning and Deep Learning on the hottest commodity today - data, to solve real-world problems.
 
 Currently, I am enhancing my knowledge in Deep Learning, specificially in Computer Vision (CV) and Natural Language Processing (NLP).
@@ -49,4 +47,3 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
