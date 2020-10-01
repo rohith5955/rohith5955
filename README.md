@@ -17,7 +17,7 @@ Currently, I am enhancing my knowledge in Deep Learning, specificially in Comput
 <p align="center"> 
   <kbd>
   	<a href="https://rohithsajja.me" target="_blank">
-		<img src="https://github.com/rohith5955/reactPortfolio/blob/master/src/assests/images/programming.svg"></img>
+		<img src="images/undraw_developer_activity_bv83.png"></img>
 	</a>
   </kbd>
 </p>
