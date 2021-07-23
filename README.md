@@ -8,15 +8,22 @@
 
 
 <pre>
-I'm Rohith Kumar Sajja, a graduate student at the University of Arizona, and a budding Data Scientist, passionate about researching and developing analytical solutions.
-I leverage Machine Learning and Deep Learning on the hottest commodity today - data, to solve real-world problems.
+<h3>🏢 Full-Stack Engineer at Nordstrom</h3> 
 
-Currently, I am enhancing my knowledge in Deep Learning, specificially in Computer Vision (CV) and Natural Language Processing (NLP).
+As an Engineer at Nordstrom, I leverage my technical skills to improve and amplify
+the store fulfillment experiences for our internal users.
+On a typical day, I help build customer facing applications and services,
+using micro-services and event-driven architecture on a modern stack.
+
+🧑🏽‍💻 Node, React, React Native, Java, AWS, Kubernetes, Kafka, Splunk, New Relic, Docker, Terraform, Artifactory
+
+Outside my work, I am enhancing my knowledge in Deep Learning,
+specificially in Computer Vision (CV) and Natural Language Processing (NLP).
 </pre>
 
 <p align="center"> 
   <kbd>
-  	<a href="https://rohithsajja.me" target="_blank">
+  	<a href="https://rsajja.dev" target="_blank">
 		<img src="images/undraw_developer_activity_bv83.png"></img>
 	</a>
   </kbd>
@@ -39,9 +46,9 @@ Here are some ideas to get you started:
 
 ### Where to find me
 
-[![](https://img.shields.io/badge/Portfolio-RohithSajjaa-9cf?style=for-the-badge&logo=react)](https://rohithsajja.me)
+[![](https://img.shields.io/badge/Portfolio-RohithSajjaa-9cf?style=for-the-badge&logo=react)](https://rsajja.dev)
 [![](https://img.shields.io/badge/LinkedIn-rohithsajja-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohithsajja/)
-[![](https://img.shields.io/badge/Gmail-rsajja-red?style=for-the-badge&logo=gmail)](mailto:rsajja@email.arizona.edu)
+[![](https://img.shields.io/badge/Gmail-rsajja-red?style=for-the-badge&logo=gmail)](mailto:rohith.sajja@gmail.com)
 [![](https://img.shields.io/badge/Medium-@rohith5955-black?style=for-the-badge&logo=medium)](https://www.medium.com/@rohith5955)
 [![](https://img.shields.io/badge/Twitter-@rohith5955-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rohith5955)
 
